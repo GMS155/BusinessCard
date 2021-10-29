@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">BusinessCard</string>
+    <string name="label_business_cards">Cartão de visita</string>
+    <string name="Label_show_succes">Cadatro com sucesso</string>
+    <string name="label_share">Compartilhar</string>
+</resources>
